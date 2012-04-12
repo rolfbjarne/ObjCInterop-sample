@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagedCode", "ManagedCode.csproj", "{0F07DA86-1C1E-4407-9B93-1424A1B6B9D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagedBinding", "ManagedBinding\ManagedBinding.csproj", "{2D6EE8EF-B066-431F-9530-F9181CF0DE59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F07DA86-1C1E-4407-9B93-1424A1B6B9D3}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{0F07DA86-1C1E-4407-9B93-1424A1B6B9D3}.Debug|iPhone.Build.0 = Debug|iPhone
+		{0F07DA86-1C1E-4407-9B93-1424A1B6B9D3}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{0F07DA86-1C1E-4407-9B93-1424A1B6B9D3}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{0F07DA86-1C1E-4407-9B93-1424A1B6B9D3}.Release|iPhone.ActiveCfg = Release|iPhone
+		{0F07DA86-1C1E-4407-9B93-1424A1B6B9D3}.Release|iPhone.Build.0 = Release|iPhone
+		{0F07DA86-1C1E-4407-9B93-1424A1B6B9D3}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{0F07DA86-1C1E-4407-9B93-1424A1B6B9D3}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{2D6EE8EF-B066-431F-9530-F9181CF0DE59}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{2D6EE8EF-B066-431F-9530-F9181CF0DE59}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{2D6EE8EF-B066-431F-9530-F9181CF0DE59}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{2D6EE8EF-B066-431F-9530-F9181CF0DE59}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{2D6EE8EF-B066-431F-9530-F9181CF0DE59}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{2D6EE8EF-B066-431F-9530-F9181CF0DE59}.Release|iPhone.Build.0 = Release|Any CPU
+		{2D6EE8EF-B066-431F-9530-F9181CF0DE59}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{2D6EE8EF-B066-431F-9530-F9181CF0DE59}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ManagedCode.csproj
+	EndGlobalSection
+EndGlobal
